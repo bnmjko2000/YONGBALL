@@ -40,7 +40,7 @@ let selects_ncaa = [];
 let c_select;
 let p_select;
 let timer;
-let inter = 90;
+let inter = 60;
 //imgages
 let ballImage = [];
 let winImage;
